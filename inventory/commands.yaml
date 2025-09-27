@@ -1,0 +1,11 @@
+commands: 
+    - show version
+    - show interfaces terse
+    - show chassis fpc 
+    - show system uptime
+    - show route 
+    - show isis database 
+    - show isis adjacency
+    - show isis interfaces
+    - show bgp summary
+    - show bgp neighbor
